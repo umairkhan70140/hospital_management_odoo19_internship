@@ -1,0 +1,2 @@
+# hospital_management_odoo19_internship
+hospital_management_odoo19_internship Task-02
